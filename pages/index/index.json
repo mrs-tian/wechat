@@ -1,0 +1,7 @@
+{
+  "navigationBarBackgroundColor":"#03bbd5",
+ " navigationBarTextStyle":"white",
+  "navigationBarTitleText": "狗狗大联盟",
+  "backgroundTextStyle": "light",
+  "disableScroll":true
+}

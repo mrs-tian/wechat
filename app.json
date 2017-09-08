@@ -1,0 +1,21 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/search/search",
+    "pages/publish/publish",  
+    "pages/detail/detail"
+    
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "backgroundColor":"#ccc",
+    "enablePullDownRefresh":true,
+    "navigationBarBackgroundColor": "#03bbd5",
+    "onReachBottomDistance":true
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true
+}

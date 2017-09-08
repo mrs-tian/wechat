@@ -1,0 +1,6 @@
+<view class="container">
+    <view class='map-con'>
+        <map id="myMap" class="map" longitude="{{longitude}}" latitude="{{latitude}}" markers="{{markers}}" scale="14" show-location controls="{{controls}}" bindcontroltap="controltap" bindmarkertap="handleMarkerTap"></map>
+   </view>
+   <include src="../../components/tab/tab.wxml"/>
+</view>
